@@ -1,5 +1,6 @@
 ---
 title: "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
+collection: publications
 category: conferences
 permalink: /publication/2023-ceval
 excerpt: 'A multi-level multi-discipline Chinese evaluation suite for foundation models.'
